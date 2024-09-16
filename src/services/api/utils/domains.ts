@@ -1,0 +1,1 @@
+export const localhost = `http://${process.env.EXPO_PUBLIC_LOCALHOST}:3000`
