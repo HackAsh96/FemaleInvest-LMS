@@ -31,5 +31,9 @@ yarn-error.*
 # local env files
 .env*.local
 
+# server files
+./server/build
+./server/node_modules/
+
 # typescript
 *.tsbuildinfo
