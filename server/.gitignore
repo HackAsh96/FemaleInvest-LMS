@@ -1,0 +1,6 @@
+# yarn
+.yarn/*
+
+# server files
+build
+node_modules/
