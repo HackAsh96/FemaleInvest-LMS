@@ -1,2 +1,2 @@
 ## Important Notes
-> Make sure to set your local ip on the .env.local file , since the machine and expo app are running on two different IPs/Ports. You can find your device IP on the Metro Bundler log when ```npx expo start```
+> Make sure to set your local ip on the .env.local file , since your local machine and expo app are running on two different IPs/Ports. You can find your device IP on the Metro Bundler log when ```npx expo start```
