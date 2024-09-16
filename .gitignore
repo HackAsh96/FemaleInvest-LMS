@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# yarn
+server/.yarn/
+
+# server files
+server/build/
+server/node_modules/
